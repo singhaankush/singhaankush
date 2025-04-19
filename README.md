@@ -5,13 +5,13 @@
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=6c09b952oxp1v810ddbm5i8g7rdh7exgc60b7r9guaqd1zvb&ep=v1_gifs_search&rid=giphy.gif&ct=g ">
 ## Hi there 👋
 
-- 🔭 I’m currently working on Web Developer [Image Slider](https://memoriess-pi.vercel.app/)
+- 🔭 I’m currently working on Web Developer [portfolio](https://react-portfolio-ashy-tau.vercel.app/)
 
-- 🌱 I’m currently learning **ReactJS, TailwindCSS,Django**
+- 🌱 I’m currently learning **ReactJS, TailwindCSS,Django, Python**
 
-- 🤝 I’m looking for help with **Web Development**
+- 🤝 I’m looking for help with **Web-App Development**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React,Python**
 
 - 📫 How to reach me **ankushsingha777@gmail.com**
 
